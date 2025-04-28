@@ -63,7 +63,7 @@ It showcases practical skills in predictive analytics, clustering, classificatio
 ## Connect With Me
 
 - 🌐 [Portfolio Website](https://maazhussain.ca)
-- 💼 [LinkedIn](https://linkedin.com/in/your-linkedin-profile)
+- 💼 [LinkedIn](https://www.linkedin.com/in/maaz-hussain-/)
 
 ---
 
